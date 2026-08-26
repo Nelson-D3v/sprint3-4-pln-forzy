@@ -1,0 +1,10 @@
+alert_id,resumo_referencia
+A001,"Alerta moderado detectado no Motor MT-042. A temperatura do enrolamento apresentou desvio de +18°C acima do baseline (78°C vs. 60°C). Recomenda-se verificação do sistema de refrigeração."
+A002,"Alerta crítico detectado no Motor MT-017. A vibração radial atingiu 2.1 mm/s, um desvio de +1.1 mm/s acima do baseline. Recomenda-se inspeção imediata do alinhamento e dos rolamentos."
+A005,"Alerta crítico detectado no Motor MT-029. A vibração axial atingiu 3.4 mm/s, desvio de +2.2 mm/s sobre o baseline. Recomenda-se parada programada para inspeção mecânica."
+A006,"Alerta crítico detectado no Motor MT-011. A resistência de isolamento caiu para 0.4 MΩ, desvio de -4.6 MΩ abaixo do baseline. Risco de falha elétrica; recomenda-se inspeção do isolamento imediatamente."
+A011,"Alerta crítico detectado no Motor MT-042. A temperatura do enrolamento atingiu 92°C, desvio de +32°C acima do baseline. Risco iminente de dano térmico; recomenda-se parada do equipamento e inspeção elétrica."
+A013,"Alerta crítico detectado no Motor MT-005. A temperatura do rolamento atingiu 70°C, desvio de +25°C acima do baseline. Recomenda-se lubrificação e inspeção mecânica do rolamento."
+A017,"Alerta crítico detectado no Motor MT-017. A temperatura do enrolamento atingiu 85°C, desvio de +25°C acima do baseline. Recomenda-se verificação do sistema de refrigeração e da carga aplicada."
+A018,"Alerta crítico detectado no Motor MT-005. A vibração radial atingiu 2.4 mm/s, desvio de +1.4 mm/s acima do baseline. Recomenda-se inspeção do alinhamento e balanceamento."
+A019,"Alerta crítico detectado no Motor MT-029. A resistência de isolamento caiu para 1.1 MΩ, desvio de -3.9 MΩ abaixo do baseline. Recomenda-se inspeção do sistema de isolamento elétrico."
