@@ -36,4 +36,6 @@ limites do sistema.
 
 ## Vídeo de demonstração
 
-*(link a inserir após a gravação)*
+[youtu.be/CRiJkBjhDLg](https://youtu.be/CRiJkBjhDLg) — demonstração do assistente de
+troubleshooting nos três cenários de falha (anomalia elétrica, anomalia mecânica e manutenção
+preventiva).

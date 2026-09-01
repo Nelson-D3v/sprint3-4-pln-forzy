@@ -166,5 +166,5 @@ Processamento/
 
 ## 9. Vídeo de Demonstração
 
-*(Link a inserir após gravação — 3 a 5 minutos, YouTube "não listado", cobrindo os três
-cenários de falha descritos na seção 7.)*
+[youtu.be/CRiJkBjhDLg](https://youtu.be/CRiJkBjhDLg) (YouTube, não listado) — demonstração do
+assistente conversacional nos três cenários de falha descritos na seção 7.
